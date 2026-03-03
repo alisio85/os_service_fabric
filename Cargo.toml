@@ -9,7 +9,7 @@ repository = "https://github.com/alisio85/os_service_fabric"
 documentation = "https://docs.rs/os_service_fabric"
 readme = "README.md"
 keywords = ["os", "kernel", "no_std", "lifecycle", "services"]
-categories = ["embedded", "no-std", "operating-systems", "development-tools"]
+categories = ["embedded", "no-std", "development-tools"]
 
 [features]
 default = []
